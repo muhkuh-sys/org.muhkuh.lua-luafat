@@ -4,5 +4,8 @@
 # Ignore all compiled Python files.
 *.pyc
 
+# Ignore the test folder for now.
+/test/
+
 # Ignore the external folder for now.
 /external/
