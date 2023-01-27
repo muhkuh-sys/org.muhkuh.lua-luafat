@@ -1,0 +1,8 @@
+# Ignore all generated files in the "build" folder.
+/build/
+
+# Ignore all compiled Python files.
+*.pyc
+
+# Ignore the external folder for now.
+/external/
